@@ -1,0 +1,95 @@
+@-moz-document domain("luogu.org")
+{
+	body
+	{
+		font-family:Consolas;
+	}
+	.am-btn
+	{
+		background-color: #44bb88 !important;
+	}
+	.am-topbar-collapse.am-collapse
+	{
+		background-color: #88cc44 !important;
+	}
+	.lg-header
+	{
+		border-color: #88cc44 !important;
+		background-color: #88cc44 !important;
+	}
+	.lg-header-list
+	{
+		border-color: #88cc44 !important;
+		background-color: #88cc44 !important;
+	}
+	.lg-header-li.lg-md-hide
+	{
+		border-color: #88cc44 !important;
+		background-color: #88cc44 !important;
+	}
+	.am-dropdown-toggle.lg-header-li
+	{
+		border-color: #88cc44 !important;
+		background-color: #88cc44 !important;
+	}
+	.am-topbar-form.am-topbar-right.am-form-inline.lg-hide
+	{
+		border-color: #88cc44 !important;
+		background-color: #88cc44 !important;
+	}
+	.lg-header-list > li
+	{
+		border-color: #88cc44 !important;
+		background-color: #88cc44 !important;
+	}
+	.hljs-keyword
+	{
+		color: #0000ff;
+	}
+	.hljs-literal
+	{
+		color: #66ccff;
+	}
+	blockquote
+	{
+		font-family:Consolas,仿宋;
+	}
+	.am-progress
+	{
+		background-color: #89cd56;
+	}
+	.lg-content
+	{
+		background-color: #eeffcc;
+	}
+	h1
+	{
+		background-color:#bbddaa;
+	}
+	h2
+	{
+		background-color:#bbddaa;
+	}
+	h3
+	{
+		background-color:#bbddaa;
+	}
+	h4
+	{
+		background-color:#bbddaa;
+	}
+	h5
+	{
+		background-color:#bbddaa;
+	}
+	h6
+	{
+		background-color:#bbddaa;
+	}
+	.lg-bignum-num
+	{
+		background-color: #ffaacc;
+		color: #2266ff;
+	}
+
+}
