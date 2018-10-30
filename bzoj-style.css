@@ -1,0 +1,55 @@
+@-moz-document domain("lydsy.com")
+{
+	body
+	{
+		background: #eaffd4;
+	}
+	div.content
+	{
+		background-color: #a4f8b0!important;
+	}
+	.oddrow
+	{
+		background-color: #D7FFEB!important;
+	}
+	.toprow
+	{
+		background-color: #1ac85c!important;
+	}
+	.sampledata
+	{
+		background: #8dffb8!important;
+	}
+	a:link
+	{
+		color: green!important;
+	}
+	a:visited
+	{
+		color: green!important;
+	}
+	h1
+	{
+		color: green!important;
+	}
+	h2
+	{
+		color: green!important;
+	}
+	h3
+	{
+		color: green!important;
+	}
+	h4
+	{
+		color: green!important;
+	}
+	h5
+	{
+		color: green!important;
+	}
+	h6
+	{
+		color: green!important;
+	}
+}
